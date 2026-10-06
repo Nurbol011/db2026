@@ -1,5 +1,5 @@
 
--- 1. Управление базами данных и пространством (Tablespaces)
+-- 1.
 
 CREATE DATABASE university_main WITH ENCODING = 'UTF8' TEMPLATE = template0;
 CREATE DATABASE university_archive WITH CONNECTION LIMIT = 50 TEMPLATE = template0;
